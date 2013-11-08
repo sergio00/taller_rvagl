@@ -1,0 +1,138 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:Program.cs" caret="0" fromTop="0" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OffLoader.cs" caret="4569" fromTop="16" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="497" fromTop="7" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="520" fromTop="0" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="231" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="26" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="18" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="18" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="37" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="37" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="1777" fromTop="9" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3021" fromTop="17" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3020" fromTop="24" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3020" fromTop="23" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="4509" fromTop="36" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="4393" fromTop="24" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="4100" fromTop="21" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="943" fromTop="20" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="1257" fromTop="33" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="4482" fromTop="27" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="1831" fromTop="38" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3020" fromTop="20" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="3020" fromTop="12" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="2458" fromTop="28" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="326" fromTop="14" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="464" fromTop="19" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:Mesh.cs" caret="510" fromTop="23" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="1133" fromTop="16" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="2377" fromTop="35" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/d:Object/f:ObjectLoader.cs" caret="2867" fromTop="43" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="823" fromTop="23" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="1117" fromTop="15" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="1447" fromTop="24" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="1705" fromTop="30" />
+      <File id="797C25C4-8236-4DB2-8CBD-99363A3AD7A5/f:OpenTK.cs" caret="2562" fromTop="39" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="159" />
+      <Item value="List" priority="63" />
+      <Item value="Vector3d`0" priority="63" />
+      <Item value="Faces" priority="63" />
+      <Item value="new" priority="223" />
+      <Item value="List&lt;Face&gt;" priority="28" />
+      <Item value="Vertices" priority="31" />
+      <Item value="List&lt;Vector3d&gt;" priority="57" />
+      <Item value="void" priority="63" />
+      <Item value="static" priority="31" />
+      <Item value="return" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="mesh" priority="127" />
+      <Item value="Vector3d" priority="28" />
+      <Item value="var" priority="127" />
+      <Item value="Face" priority="29" />
+      <Item value="vertexIndex" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="index" priority="63" />
+      <Item value="if" priority="31" />
+      <Item value="currentFace" priority="31" />
+      <Item value="Mesh" priority="57" />
+      <Item value="ObjectLoader`0" priority="31" />
+      <Item value="_objectMesh" priority="63" />
+      <Item value="Console`0" priority="31" />
+      <Item value="String`0" priority="31" />
+      <Item value="break" priority="63" />
+      <Item value="case" priority="31" />
+      <Item value="value" priority="31" />
+      <Item value="GL`0" priority="63" />
+      <Item value="Normals" priority="31" />
+      <Item value="MaterialFace`0" priority="31" />
+      <Item value="PolygonMode`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenTK.Object.Mesh">
+      <Item value="vertexsArray" priority="26" />
+      <Item value="Vertices" priority="22" />
+      <Item value="Faces" priority="26" />
+      <Item value="Draw`0" priority="26" />
+      <Item value="Normals" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="82" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenTK.Object.Face">
+      <Item value="IndexVertexs" priority="53" />
+      <Item value="IndicesNormal" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OpenTK.Object.ObjectLoader">
+      <Item value="GetMesh`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OpenTK.Vector3d">
+      <Item value="Zero" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenTK.Vector3d">
+      <Item value="X" priority="53" />
+      <Item value="Y" priority="53" />
+      <Item value="Z" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OpenTK.Graphics.OpenGL.GL">
+      <Item value="Normal3`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OpenTK.Graphics.OpenGL.MaterialFace">
+      <Item value="Front" priority="72" />
+      <Item value="FrontAndBack" priority="68" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OpenTK.Graphics.OpenGL.PolygonMode">
+      <Item value="Line" priority="72" />
+      <Item value="Point" priority="45" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

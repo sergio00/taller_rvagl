@@ -1,0 +1,34 @@
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\obj\x86\Debug\OpenTK.OpenTK.resources
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\obj\x86\Debug\OpenTK.Properties.Resources.resources
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\obj\x86\Debug\OpenTK.csproj.GenerateResource.Cache
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.exe
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.pdb
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.dll
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.GLControl.dll
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.xml
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\bin\Debug\OpenTK.GLControl.xml
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\obj\x86\Debug\OpenTK.exe
+F:\Mis documentos 2\Programacion\Visual C#\OpenTK\OpenTK\obj\x86\Debug\OpenTK.pdb
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.exe
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.pdb
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.exe
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.pdb
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.dll
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.xml
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.csprojResolveAssemblyReference.cache
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.OpenTK.resources
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.Properties.Resources.resources
+C:\Users\Luiyit\Desktop\OpenTK\OpenTK\obj\x86\Debug\OpenTK.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\OpenTK.exe
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\OpenTK.pdb
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\bin\Debug\OpenTK.exe
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\bin\Debug\OpenTK.pdb
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\bin\Debug\OpenTK.xml
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\bin\Debug\OpenTK.GLControl.xml
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\OpenTK.OpenTK.resources
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\OpenTK.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\OpenTK\OpenTK\obj\x86\Debug\GenerateResource.write.1.tlog
